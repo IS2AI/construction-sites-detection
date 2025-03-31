@@ -9,6 +9,6 @@ Here are the links for the dataset [temporary]:
 [Ready annotation files](https://drive.google.com/drive/folders/1q1D_ZFjqL1vOAJPxbZGtVruQMgcIovJ-?usp=sharing)
 
 # Architectures:
-Poly-Yolo: [https://gitlab.com/irafm-ai/poly-yolo] (https://gitlab.com/irafm-ai/poly-yolo) <br/> 
-Yolo-v8: [https://github.com/ultralytics/ultralytics] (https://github.com/ultralytics/ultralytics) <br/> 
-SAM: [https://github.com/facebookresearch/segment-anything] (https://github.com/facebookresearch/segment-anything)
+Poly-Yolo: [https://gitlab.com/irafm-ai/poly-yolo](https://gitlab.com/irafm-ai/poly-yolo) <br/> 
+Yolo-v8: [https://github.com/ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) <br/> 
+SAM: [https://github.com/facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything)
