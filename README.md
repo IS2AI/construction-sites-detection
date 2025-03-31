@@ -7,3 +7,8 @@ Here are the links for the dataset [temporary]:
 
 [Original patches data](https://drive.google.com/drive/folders/1GyunyT7veq1rNzehK98aX7pn7y60S9bF?usp=sharing) <br/> 
 [Ready annotation files](https://drive.google.com/drive/folders/1q1D_ZFjqL1vOAJPxbZGtVruQMgcIovJ-?usp=sharing)
+
+# Architectures:
+Poly-Yolo: [https://gitlab.com/irafm-ai/poly-yolo] (https://gitlab.com/irafm-ai/poly-yolo)
+Yolo-v8: [https://github.com/ultralytics/ultralytics] (https://github.com/ultralytics/ultralytics)
+SAM: [https://github.com/facebookresearch/segment-anything] (https://github.com/facebookresearch/segment-anything)
