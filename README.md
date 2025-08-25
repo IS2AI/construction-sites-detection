@@ -1,11 +1,6 @@
 # Construction-sites-detection project
 This repo contains code and dataset for training and testing ml model which implements instance segmentation of construction sites
 
-# The Dataset
-
-Here are the links for the dataset [temporary]:
-
-[Original patches data](https://drive.google.com/drive/folders/1GyunyT7veq1rNzehK98aX7pn7y60S9bF?usp=sharing) <br/> 
 
 # Architectures:
 Poly-Yolo: [https://gitlab.com/irafm-ai/poly-yolo](https://gitlab.com/irafm-ai/poly-yolo) <br/> 
