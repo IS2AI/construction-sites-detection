@@ -1,5 +1,5 @@
 # Construction-sites-detection project
-This repo contains code and dataset for training and testing ml model which implements instance segmentation of construction sites
+This repo contains code and dataset for training and testing ml model which implements instance segmentation of construction sites. Dataset will be availbale at our HuugingFace account after paper publication.
 
 
 # Architectures:
