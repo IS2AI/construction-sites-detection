@@ -9,4 +9,4 @@ Yolo-v8 and Yolo-v11: [https://github.com/ultralytics/ultralytics](https://githu
 
 ## If you use the dataset/source code/pre-trained models in your research, please cite our work:
 
-Bissarinova, Ulzhan, Hamad Hassan Awan, Sakiru Olarewaju Olagunju, Iskander Bolatkhanov, Abylay Turekhassim, Huseyin Atakan Varol, and Ferhat Karaca. “CSDS: AI-Based Construction Site Detection and Segmentation Tool for Satellite Images.” Institute of Smart Systems and Artificial Intelligence, 2025. https://doi.org/10.48333/0PJD-BP65.
+Bissarinova, U., Awan, H. H., Olagunju, S. O., Bolatkhanov, I., Turekhassim, A., Varol, H. A., & Karaca, F. (2025). CSDS: AI-Based Construction Site Detection and Segmentation tool for Satellite Images [Data set]. Institute of Smart Systems and Artificial Intelligence. https://doi.org/10.48333/0PJD-BP65
