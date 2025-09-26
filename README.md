@@ -18,7 +18,7 @@ Pretrained models trained on this dataset are available at:
 
 ## Dataset 
 Dataset can be accessed at:
-👉 [datasets/issai/CSDS_models] (https://huggingface.co/datasets/issai/CSDS_dataset) 
+👉 [datasets/issai/CSDS_models](https://huggingface.co/datasets/issai/CSDS_dataset) 
 To request access, please fill out the form. Access will be provided once it has been manually.
 
 
