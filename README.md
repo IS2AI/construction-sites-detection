@@ -76,6 +76,6 @@ preprocessed/
   title        = {CSDS: AI-Based Construction Site Detection and Segmentation tool for Satellite Images},
   author       = {Bissarinova, U. and Awan, H. H. and Olagunju, S. O. and Bolatkhanov, I. and Turekhassim, A. and Varol, H. A. and Karaca, F.},
   year         = {2025},
-  publisher    = {Institute of Smart Systems and Artificial Intelligence},
+  publisher    = {Institute of Smart Systems and Artificial Intelligence and Department of Civil Engineering, Nazarbayev University},
   howpublished = {\url{https://doi.org/10.48333/0PJD-BP65}}
 }
