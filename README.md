@@ -1,8 +1,7 @@
 # Construction-sites-detection project
 This repo contains code and dataset for training and testing ml model which implements instance segmentation of construction sites. 
 
-* Dataset can be accessed at: https://huggingface.co/datasets/issai/CSDS_dataset. To request access, please fill out the form. Access will be provided once it has been manually.
-* Pre-trained model wieghts can be accessed at: https://huggingface.co/issai/CSDS_models. To request access, please fill out the form. Access will be provided once it has been manually.
+
 
 
 # Architectures:
@@ -10,12 +9,21 @@ Yolo-v8 and Yolo-v11: [https://github.com/ultralytics/ultralytics](https://githu
 
 # CSDS: Construction Site Detection and Segmentation
 
-The **Construction Site Detection and Segmentation(CSDS)** is a large-scale dataset of construction site satellite imagery with detailed polygon annotations.  
+The **Construction Site Detection and Segmentation(CSDS)** is a  tool consisting of 16 CSDS models and of large-scale dataset of construction site (5 stages and footings) satellite imagery with detailed polygon annotations.  
 It contains both the **raw source data** (images and XML annotations) and **preprocessed training-ready splits** in YOLO format.  
+
+## Pretrained Models
+Pretrained models trained on this dataset are available at:  
+👉 [issai/CSDS_models](https://huggingface.co/issai/CSDS_models)
+
+## Dataset 
+Dataset can be accessed at:
+👉 https://huggingface.co/datasets/issai/CSDS_dataset. 
+To request access, please fill out the form. Access will be provided once it has been manually.
+
 
 ## Dataset Structure
 
-## Notes
 - All images and annotations are provided in **ZIP archives** for efficient storage and download.  
 - The `raw/` folder contains original images and XML annotations.  
 - The `preprocessed/` folder contains processed input images (600px and 1200px) with YOLO-style train/test/val splits.
