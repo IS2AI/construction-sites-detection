@@ -13,11 +13,11 @@ The **Construction Site Detection and Segmentation(CSDS)** is a  tool consisting
 It contains both the **raw source data** (images and XML annotations) and **preprocessed training-ready splits** in YOLO format.  
 
 ## Pretrained Models
-Pretrained models trained on this dataset are available at:  
+Pretrained models are available at:  
 👉 [issai/CSDS_models](https://huggingface.co/issai/CSDS_models)
 
 ## Dataset 
-Dataset can be accessed at:
+The dataset are available at:  
 👉 [datasets/issai/CSDS_models](https://huggingface.co/datasets/issai/CSDS_dataset) 
 To request access, please fill out the form. Access will be provided once it has been manually.
 
