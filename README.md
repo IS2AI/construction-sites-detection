@@ -13,8 +13,6 @@ Yolo-v8 and Yolo-v11: [https://github.com/ultralytics/ultralytics](https://githu
 The **Construction Site Detection and Segmentation(CSDS)** is a large-scale dataset of construction site satellite imagery with detailed polygon annotations.  
 It contains both the **raw source data** (images and XML annotations) and **preprocessed training-ready splits** in YOLO format.  
 
----
-
 ## Dataset Structure
 
 ## Notes
