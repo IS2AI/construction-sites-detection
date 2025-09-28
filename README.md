@@ -19,7 +19,7 @@ The dataset are available at:
 To request access, please fill out the form. Access will be provided once it has been manually.
 
 ## Data availability:
-The dataset is available at Digital Object Identifier (DOI) {\url{https://doi.org/10.48333/0PJD-BP65}}.
+The dataset is available at Digital Object Identifier (DOI) https://doi.org/10.48333/0PJD-BP65.
 
 
 ## Dataset Structure
