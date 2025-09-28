@@ -26,7 +26,7 @@ The dataset is available at Digital Object Identifier (DOI) https://doi.org/10.4
 
 - All images and annotations are provided in **ZIP archives** for efficient storage and download.  
 - The `raw/` folder contains original images and XML annotations.  
-- The `preprocessed/` folder contains processed input images (600px and 1200px) with YOLO-style train/test/val splits.
+- The `preprocessed/` folder contains processed input images (600px and 1200px) and corresponding annotations in YOLO-style train/test/val splits.
 
 
 ### Raw Data
