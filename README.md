@@ -72,14 +72,29 @@ preprocessed/
 - Each size folder (`600/`, `1200/`) contains YOLO-ready **`train/`**, **`val/`**, and **`test/`** splits with `images/` and `labels/` directories.  
 
 
-## If you use the dataset/source code/pre-trained models in your research, please cite our work:
+## If you use the dataset/source code/pre-trained models in your research, please cite our work.
+## 📘 Citation and Data Availability
+
+This repository accompanies the preprint:
+
+**Bissarinova, U., Awan, H. H., Olagunju, S. O., Bolatkhanov, I., Turekhassim, A., Varol, H. A., & Karaca, F. (2025). _CSDS: AI-Based Construction Site Detection and Segmentation Tool for Satellite Images._ TechRxiv.** DOI: [https://doi.org/10.36227/techrxiv.1340077](https://doi.org/10.36227/techrxiv.1340077)
+
+If you use this code or build upon our methods, please cite the **preprint**.  
+If you use or analyze the dataset directly, please also cite the **dataset DOI**:
+
+**Dataset:** [https://doi.org/10.48333/0PJD-BP65]
+
+**Recommended citation format:**
+
+```
+@article{bissarinova2025csds,
+title={CSDS: AI-Based Construction Site Detection and Segmentation Tool for Satellite Images},
+author={Bissarinova, Ulzhan and Awan, Hamad Hassan and Olagunju, Sakiru Olarewaju and Bolatkhanov, Iskander and
+Turekhassim, Abylay and Varol, Huseyin Atakan and Karaca, Ferhat},
+year={2025},
+journal={TechRxiv},
+doi={10.36227/techrxiv.1340077}
+}
 
 ```
 
-@dataset{issai_csds_2025,
-  title        = {CSDS: AI-Based Construction Site Detection and Segmentation tool for Satellite Images},
-  author       = {Bissarinova, U. and Awan, H. H. and Olagunju, S. O. and Bolatkhanov, I. and Turekhassim, A. and Varol, H. A. and Karaca, F.},
-  year         = {2025},
-  publisher    = {Institute of Smart Systems and Artificial Intelligence and Department of Civil Engineering, Nazarbayev University},
-  howpublished = {\url{https://doi.org/10.48333/0PJD-BP65}}
-}
