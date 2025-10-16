@@ -1,5 +1,6 @@
 # Construction-sites-detection project
 This repo contains code and dataset for training and testing ml model which implements instance segmentation of construction sites. 
+Pre-print of the respective paper availbale [at this link](https://www.techrxiv.org/users/690877/articles/1340077-csds-ai-based-construction-site-detection-and-segmentation-tool-for-satellite-images).
 
 # Architectures:
 Yolo-v8 and Yolo-v11: [https://github.com/ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) <br/> 
