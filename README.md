@@ -88,14 +88,14 @@ If you use or analyze the dataset directly, please also cite the **dataset DOI**
 **Recommended citation format:**
 
 ```
-@article{bissarinova2025csds,
-title={CSDS: AI-Based Construction Site Detection and Segmentation Tool for Satellite Images},
-author={Bissarinova, Ulzhan and Awan, Hamad Hassan and Olagunju, Sakiru Olarewaju and Bolatkhanov, Iskander and
-Turekhassim, Abylay and Varol, Huseyin Atakan and Karaca, Ferhat},
+@article{Bissarinova_2025,
+title={CSDS: AI-Based Construction Site Detection and Segmentation tool for Satellite Images},
+url={http://dx.doi.org/10.36227/techrxiv.176054630.07365932/v1},
+DOI={10.36227/techrxiv.176054630.07365932/v1},
+publisher={Institute of Electrical and Electronics Engineers (IEEE)},
+author={Bissarinova, Ulzhan and Awan, Hamad Hassan and Olagunju, Sakiru Olarewaju and Bolatkhanov, Iskander and Turekhassim, Abylay and Varol, Huseyin Atakan and Karaca, Ferhat},
 year={2025},
-journal={TechRxiv},
-doi={10.36227/techrxiv.176054630.07365932/v1}
-}
+month=oct }
 
 ```
 
