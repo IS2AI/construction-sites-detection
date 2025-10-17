@@ -94,7 +94,7 @@ author={Bissarinova, Ulzhan and Awan, Hamad Hassan and Olagunju, Sakiru Olarewaj
 Turekhassim, Abylay and Varol, Huseyin Atakan and Karaca, Ferhat},
 year={2025},
 journal={TechRxiv},
-doi={10.36227/techrxiv.1340077}
+doi={10.36227/techrxiv.176054630.07365932/v1}
 }
 
 ```
