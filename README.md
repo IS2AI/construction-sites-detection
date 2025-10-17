@@ -78,7 +78,7 @@ preprocessed/
 
 This repository accompanies the preprint:
 
-**Ulzhan Bissarinova, Hamad Hassan Awan, Sakiru Olarewaju Olagunju, et al. CSDS: AI-Based Construction Site Detection and Segmentation tool for Satellite Images. TechRxiv. October 15, 2025. [DOI: 10.36227/techrxiv.176054630.07365932/v1](DOI: 10.36227/techrxiv.176054630.07365932/v1)**
+Ulzhan Bissarinova, Hamad Hassan Awan, Sakiru Olarewaju Olagunju, et al. CSDS: AI-Based Construction Site Detection and Segmentation tool for Satellite Images. TechRxiv. October 15, 2025. DOI: 10.36227/techrxiv.176054630.07365932/v1
 
 If you use this code or build upon our methods, please cite the **preprint**.  
 If you use or analyze the dataset directly, please also cite the **dataset DOI**:
