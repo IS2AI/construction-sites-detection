@@ -1,4 +1,4 @@
-# CSDS: Construction Site Detection and Segmentation
+# 🛰️ CSDS: Construction Site Detection and Segmentation
 This repo contains code and dataset for training and testing ml model which implements instance segmentation of construction sites. 
 Pre-print of the respective paper available [at this link](https://www.techrxiv.org/users/690877/articles/1340077-csds-ai-based-construction-site-detection-and-segmentation-tool-for-satellite-images).
 
