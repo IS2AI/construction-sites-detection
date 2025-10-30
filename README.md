@@ -69,18 +69,9 @@ preprocessed/
 ## Architectures:
 Yolo-v8 and Yolo-v11: [https://github.com/ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) <br/> 
 
-
-## If you use the dataset/source code/pre-trained models in your research, please cite our work.
-
 ## 📘 Citation and Data Availability
 
-This repository accompanies the preprint:
-
-- **Ulzhan Bissarinova, Hamad Hassan Awan, Sakiru Olarewaju Olagunju, et al. CSDS: AI-Based Construction Site Detection and Segmentation tool for Satellite Images. TechRxiv. October 15, 2025. [DOI: 10.36227/techrxiv.176054630.07365932/v1](https://doi.org/10.36227/techrxiv.176054630.07365932/v1)**
-
 If you use this code or build upon our methods, please cite the **preprint**.  If you use or analyze the dataset directly, please also cite the **dataset DOI**: [https://doi.org/10.48333/0PJD-BP65](https://doi.org/10.48333/0PJD-BP65)
-
-**Recommended citation format:**
 
 ```
 @article{Bissarinova_2025,
